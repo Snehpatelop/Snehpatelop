@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ai based crop disease detection**
+- 🔭 I’m currently working on **IMC PROSPERITY CHALLENGE ALGO TRADING**
 
 - 🌱 I’m currently learning **Scikit-learn,Tensorflow**
 
